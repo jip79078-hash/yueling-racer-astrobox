@@ -1,0 +1,83 @@
+{
+  "item": {
+    "id": "com.jpf.wrist.sunnyclimb",
+    "restype": "quick_app",
+    "name": "越岭飞车",
+    "description": "一款为手环和手表制作的越野赛车游戏。驾驶山地越野或沙地轻骑，在阳光牧场、金色沙丘和紫晶月球挑战无尽里程。冲过坡顶后调整车身，完成空翻并稳稳落地；收集金币可以调校四项部件，解锁后还可挑战油门焊死模式。\n\n手环 Pro 版支持按键，以及传感器可用时的重力操控。REDMI Watch 版使用左右触控。",
+    "preview": [
+      "media/01-home.png",
+      "media/02-airborne-flip.png",
+      "media/03-workshop.png",
+      "media/04-map-0.png"
+    ],
+    "icon": "media/icon.png",
+    "cover": "media/cover-final.jpg",
+    "author": [
+      {
+        "name": "Jip79078",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmrw5": {
+      "version": "1.0.0",
+      "file_name": "downloads/yueling-redmi-watch-1.0.0.rpk",
+      "versionCode": 6
+    },
+    "xmrw5xring": {
+      "version": "1.0.0",
+      "file_name": "downloads/yueling-redmi-watch-1.0.0.rpk",
+      "versionCode": 6
+    },
+    "xmrw6": {
+      "version": "1.0.0",
+      "file_name": "downloads/yueling-redmi-watch-1.0.0.rpk",
+      "versionCode": 6
+    },
+    "xmb10p": {
+      "version": "1.0.0",
+      "file_name": "downloads/yueling-band-pro-1.0.0.rpk",
+      "versionCode": 6
+    },
+    "xmb9p": {
+      "version": "1.0.0",
+      "file_name": "downloads/yueling-band-pro-1.0.0.rpk",
+      "versionCode": 6
+    },
+    "xmws3": {
+      "version": "1.0.0",
+      "file_name": "downloads/yueling-round-watch-1.0.0.rpk",
+      "versionCode": 6
+    },
+    "xmws4": {
+      "version": "1.0.0",
+      "file_name": "downloads/yueling-round-watch-1.0.0.rpk",
+      "versionCode": 6
+    },
+    "xmws4xring": {
+      "version": "1.0.0",
+      "file_name": "downloads/yueling-round-watch-1.0.0.rpk",
+      "versionCode": 6
+    },
+    "xmws441": {
+      "version": "1.0.0",
+      "file_name": "downloads/yueling-round-watch-1.0.0.rpk",
+      "versionCode": 6
+    },
+    "xmws5": {
+      "version": "1.0.0",
+      "file_name": "downloads/yueling-round-watch-1.0.0.rpk",
+      "versionCode": 6
+    },
+    "xmws541": {
+      "version": "1.0.0",
+      "file_name": "downloads/yueling-round-watch-1.0.0.rpk",
+      "versionCode": 6
+    }
+  },
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true
+  }
+}
