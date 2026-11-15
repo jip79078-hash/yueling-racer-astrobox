@@ -8,10 +8,11 @@
       "media/01-home.png",
       "media/02-airborne-flip.png",
       "media/03-workshop.png",
-      "media/04-map-0.png"
+      "media/04-map-0.png",
+      "media/05-ip-statement.png"
     ],
     "icon": "media/icon.png",
-    "cover": "media/cover-desert-crest.jpg",
+    "cover": "media/cover-review-v3.jpg",
     "author": [
       {
         "name": "Jip79078",
@@ -22,59 +23,59 @@
   "links": [],
   "downloads": {
     "xmrw5": {
-      "version": "1.0.0",
-      "file_name": "downloads/yueling-redmi-watch-1.0.0.rpk",
-      "versionCode": 6
+      "version": "1.0.1",
+      "file_name": "downloads/yueling-redmi-watch-1.0.1.rpk",
+      "versionCode": 7
     },
     "xmrw5xring": {
-      "version": "1.0.0",
-      "file_name": "downloads/yueling-redmi-watch-1.0.0.rpk",
-      "versionCode": 6
+      "version": "1.0.1",
+      "file_name": "downloads/yueling-redmi-watch-1.0.1.rpk",
+      "versionCode": 7
     },
     "xmrw6": {
-      "version": "1.0.0",
-      "file_name": "downloads/yueling-redmi-watch-1.0.0.rpk",
-      "versionCode": 6
+      "version": "1.0.1",
+      "file_name": "downloads/yueling-redmi-watch-1.0.1.rpk",
+      "versionCode": 7
     },
     "xmb10p": {
-      "version": "1.0.0",
-      "file_name": "downloads/yueling-band-pro-1.0.0.rpk",
-      "versionCode": 6
+      "version": "1.0.1",
+      "file_name": "downloads/yueling-band-pro-1.0.1.rpk",
+      "versionCode": 7
     },
     "xmb9p": {
-      "version": "1.0.0",
-      "file_name": "downloads/yueling-band-pro-1.0.0.rpk",
-      "versionCode": 6
+      "version": "1.0.1",
+      "file_name": "downloads/yueling-band-pro-1.0.1.rpk",
+      "versionCode": 7
     },
     "xmws3": {
-      "version": "1.0.0",
-      "file_name": "downloads/yueling-round-watch-1.0.0.rpk",
-      "versionCode": 6
+      "version": "1.0.1",
+      "file_name": "downloads/yueling-round-watch-1.0.1.rpk",
+      "versionCode": 7
     },
     "xmws4": {
-      "version": "1.0.0",
-      "file_name": "downloads/yueling-round-watch-1.0.0.rpk",
-      "versionCode": 6
+      "version": "1.0.1",
+      "file_name": "downloads/yueling-round-watch-1.0.1.rpk",
+      "versionCode": 7
     },
     "xmws4xring": {
-      "version": "1.0.0",
-      "file_name": "downloads/yueling-round-watch-1.0.0.rpk",
-      "versionCode": 6
+      "version": "1.0.1",
+      "file_name": "downloads/yueling-round-watch-1.0.1.rpk",
+      "versionCode": 7
     },
     "xmws441": {
-      "version": "1.0.0",
-      "file_name": "downloads/yueling-round-watch-1.0.0.rpk",
-      "versionCode": 6
+      "version": "1.0.1",
+      "file_name": "downloads/yueling-round-watch-1.0.1.rpk",
+      "versionCode": 7
     },
     "xmws5": {
-      "version": "1.0.0",
-      "file_name": "downloads/yueling-round-watch-1.0.0.rpk",
-      "versionCode": 6
+      "version": "1.0.1",
+      "file_name": "downloads/yueling-round-watch-1.0.1.rpk",
+      "versionCode": 7
     },
     "xmws541": {
-      "version": "1.0.0",
-      "file_name": "downloads/yueling-round-watch-1.0.0.rpk",
-      "versionCode": 6
+      "version": "1.0.1",
+      "file_name": "downloads/yueling-round-watch-1.0.1.rpk",
+      "versionCode": 7
     }
   },
   "ext": {
