@@ -3,7 +3,7 @@
     "id": "com.jpf.wrist.sunnyclimb",
     "restype": "quick_app",
     "name": "越岭飞车",
-    "description": "一款为手环和手表制作的越野赛车游戏。驾驶山地越野或沙地轻骑，在阳光牧场、金色沙丘和紫晶月球挑战无尽里程。冲过坡顶后调整车身，完成空翻并稳稳落地；收集金币可以调校四项部件，解锁后还可挑战油门焊死模式。\n\n手环 Pro 版支持按键，以及传感器可用时的重力操控。REDMI Watch 版使用左右触控。",
+    "description": "一款为手环和手表制作的越野赛车游戏。驾驶山地越野或沙地轻骑，在阳光牧场、金色沙丘和紫晶月球挑战无尽里程。冲过坡顶后调整车身，完成空翻并稳稳落地；收集金币可以调校四项部件，解锁后还可挑战油门焊死模式。\n\n小米手环 9、10、11 系列窄屏版采用横屏左右触控。车辆调校一次显示一个部件，上下滑动切换。\n\n手环 Pro 版支持按键，以及传感器可用时的重力操控。REDMI Watch 版使用左右触控。",
     "preview": [
       "media/01-home.png",
       "media/02-airborne-flip.png",
@@ -23,59 +23,84 @@
   "links": [],
   "downloads": {
     "xmrw5": {
-      "version": "1.0.1",
-      "file_name": "downloads/yueling-redmi-watch-1.0.1.rpk",
-      "versionCode": 7
+      "version": "1.0.5",
+      "file_name": "downloads/yueling-redmi-watch-1.0.5.rpk",
+      "versionCode": 11
     },
     "xmrw5xring": {
-      "version": "1.0.1",
-      "file_name": "downloads/yueling-redmi-watch-1.0.1.rpk",
-      "versionCode": 7
+      "version": "1.0.5",
+      "file_name": "downloads/yueling-redmi-watch-1.0.5.rpk",
+      "versionCode": 11
     },
     "xmrw6": {
-      "version": "1.0.1",
-      "file_name": "downloads/yueling-redmi-watch-1.0.1.rpk",
-      "versionCode": 7
+      "version": "1.0.5",
+      "file_name": "downloads/yueling-redmi-watch-1.0.5.rpk",
+      "versionCode": 11
     },
     "xmb10p": {
-      "version": "1.0.1",
-      "file_name": "downloads/yueling-band-pro-1.0.1.rpk",
-      "versionCode": 7
+      "version": "1.0.5",
+      "file_name": "downloads/yueling-band-pro-1.0.5.rpk",
+      "versionCode": 11
     },
     "xmb9p": {
-      "version": "1.0.1",
-      "file_name": "downloads/yueling-band-pro-1.0.1.rpk",
-      "versionCode": 7
+      "version": "1.0.5",
+      "file_name": "downloads/yueling-band-pro-1.0.5.rpk",
+      "versionCode": 11
     },
     "xmws3": {
-      "version": "1.0.1",
-      "file_name": "downloads/yueling-round-watch-1.0.1.rpk",
-      "versionCode": 7
+      "version": "1.0.5",
+      "file_name": "downloads/yueling-round-watch-1.0.5.rpk",
+      "versionCode": 11
     },
     "xmws4": {
-      "version": "1.0.1",
-      "file_name": "downloads/yueling-round-watch-1.0.1.rpk",
-      "versionCode": 7
+      "version": "1.0.5",
+      "file_name": "downloads/yueling-round-watch-1.0.5.rpk",
+      "versionCode": 11
     },
     "xmws4xring": {
-      "version": "1.0.1",
-      "file_name": "downloads/yueling-round-watch-1.0.1.rpk",
-      "versionCode": 7
+      "version": "1.0.5",
+      "file_name": "downloads/yueling-round-watch-1.0.5.rpk",
+      "versionCode": 11
     },
     "xmws441": {
-      "version": "1.0.1",
-      "file_name": "downloads/yueling-round-watch-1.0.1.rpk",
-      "versionCode": 7
+      "version": "1.0.5",
+      "file_name": "downloads/yueling-round-watch-1.0.5.rpk",
+      "versionCode": 11
     },
     "xmws5": {
-      "version": "1.0.1",
-      "file_name": "downloads/yueling-round-watch-1.0.1.rpk",
-      "versionCode": 7
+      "version": "1.0.5",
+      "file_name": "downloads/yueling-round-watch-1.0.5.rpk",
+      "versionCode": 11
     },
     "xmws541": {
-      "version": "1.0.1",
-      "file_name": "downloads/yueling-round-watch-1.0.1.rpk",
-      "versionCode": 7
+      "version": "1.0.5",
+      "file_name": "downloads/yueling-round-watch-1.0.5.rpk",
+      "versionCode": 11
+    },
+    "xmb10": {
+      "version": "1.0.8",
+      "file_name": "downloads/yueling-band10-landscape-1.0.8.rpk",
+      "versionCode": 14
+    },
+    "xmb10nfc": {
+      "version": "1.0.8",
+      "file_name": "downloads/yueling-band10-landscape-1.0.8.rpk",
+      "versionCode": 14
+    },
+    "xmb11": {
+      "version": "1.0.8",
+      "file_name": "downloads/yueling-band10-landscape-1.0.8.rpk",
+      "versionCode": 14
+    },
+    "xmb11nfc": {
+      "version": "1.0.8",
+      "file_name": "downloads/yueling-band10-landscape-1.0.8.rpk",
+      "versionCode": 14
+    },
+    "xmb9": {
+      "version": "1.0.8",
+      "file_name": "downloads/yueling-band9-landscape-1.0.8.rpk",
+      "versionCode": 14
     }
   },
   "ext": {
